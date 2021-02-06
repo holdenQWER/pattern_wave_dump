@@ -10,4 +10,8 @@
 
 **make wave**打开波形
 
-拉去信号`val`查看即可
+拉取信号`val`查看即可
+
+## 示例
+![Image of GiHub](github.PNG)
+![Image of 心如止水](心如止水.PNG)
